@@ -1,0 +1,17 @@
+#Gives all snowmobile spawn eggs
+function classyelm_snowmobiles:get/snowmobile/black
+function classyelm_snowmobiles:get/snowmobile/red
+function classyelm_snowmobiles:get/snowmobile/green
+function classyelm_snowmobiles:get/snowmobile/brown
+function classyelm_snowmobiles:get/snowmobile/blue
+function classyelm_snowmobiles:get/snowmobile/purple
+function classyelm_snowmobiles:get/snowmobile/cyan
+function classyelm_snowmobiles:get/snowmobile/light_gray
+function classyelm_snowmobiles:get/snowmobile/gray
+function classyelm_snowmobiles:get/snowmobile/pink
+function classyelm_snowmobiles:get/snowmobile/light_green
+function classyelm_snowmobiles:get/snowmobile/yellow
+function classyelm_snowmobiles:get/snowmobile/light_blue
+function classyelm_snowmobiles:get/snowmobile/magenta
+function classyelm_snowmobiles:get/snowmobile/orange
+function classyelm_snowmobiles:get/snowmobile/white

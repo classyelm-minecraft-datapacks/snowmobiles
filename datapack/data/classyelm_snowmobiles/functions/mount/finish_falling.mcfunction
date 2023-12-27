@@ -1,0 +1,2 @@
+#Moves snowmobile to the ground if it is still hanging in the air after falling
+execute if block ^ ^-0.05 ^3 #classyelm_snowmobiles:non-solid_blocks if block ^ ^-0.05 ^2 #classyelm_snowmobiles:non-solid_blocks if block ^ ^-0.05 ^1 #classyelm_snowmobiles:non-solid_blocks if block ^ ^-0.05 ^ #classyelm_snowmobiles:non-solid_blocks if block ^ ^-0.05 ^-0.5 #classyelm_snowmobiles:non-solid_blocks if block ^ ^-0.05 ^-1.15 #classyelm_snowmobiles:non-solid_blocks run tp @s ~ ~-0.05 ~

@@ -1,0 +1,14 @@
+{
+	"replace": "false",
+	"values": [
+		"minecraft:snow_block",
+		"minecraft:ice",
+		"minecraft:air",
+		"minecraft:ice",
+		"minecraft:packed_ice",
+		"minecraft:blue_ice",
+		"minecraft:dirt",
+		"minecraft:coarse_dirt",
+		"minecraft:podzol"
+	]
+}

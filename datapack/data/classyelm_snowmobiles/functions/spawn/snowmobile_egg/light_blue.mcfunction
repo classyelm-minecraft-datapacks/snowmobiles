@@ -1,0 +1,2 @@
+#Summons snowmobile spawn egg item
+summon item ~ ~ ~ {Item:{id:"minecraft:polar_bear_spawn_egg",Count:1b,tag:{Enchantments:[{id:"protection",lvl:1}],HideFlags:1,display:{Name:"{\"text\":\"Light Blue Snowmobile Spawn Egg\",\"color\":\"white\",\"italic\":\"false\"}"},EntityTag:{Silent:1,Tags:["smv1tss","smv1tss12"]}}}}

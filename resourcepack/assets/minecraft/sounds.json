@@ -1,0 +1,259 @@
+{
+	"snowmobile.idle" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/idle1",
+				"pitch" : 1,
+				"stream" : "false"
+			},
+			{
+				"name" : "snowmobile/idle2",
+				"pitch" : 1,
+				"stream" : "false"
+			},
+			{
+				"name" : "snowmobile/idle3",
+				"pitch" : 1,
+				"stream" : "false"
+			},
+			{
+				"name" : "snowmobile/idle4",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.start" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/start",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev1" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev1",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev2" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev2",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev3" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev3",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev4" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev4",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev5" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev5",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev6" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev6",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev7" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev7",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev8" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev8",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev9" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev9",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev10" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev10",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev11" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev11",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev12" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev12",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev13" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev13",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev14" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev14",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev15" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev15",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev16" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev16",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev17" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev17",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev18" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev18",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev19" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev19",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	},
+	"snowmobile.rev20" : {
+		"replace" : "true",
+		"category" : "player",
+		"sounds" : [
+			{
+				"name" : "snowmobile/revs/rev20",
+				"pitch" : 1,
+				"stream" : "false"
+			}
+		]
+	}
+}

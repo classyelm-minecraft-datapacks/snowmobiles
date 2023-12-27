@@ -1,0 +1,22 @@
+#Plays sound for different speed levels
+execute if entity @s[scores={smv1os=..0}] run playsound snowmobile.idle player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=1}] run playsound snowmobile.rev1 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=2}] run playsound snowmobile.rev2 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=3}] run playsound snowmobile.rev3 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=4}] run playsound snowmobile.rev4 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=5}] run playsound snowmobile.rev5 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=6}] run playsound snowmobile.rev6 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=7}] run playsound snowmobile.rev7 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=8}] run playsound snowmobile.rev8 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=9}] run playsound snowmobile.rev9 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=10}] run playsound snowmobile.rev10 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=11}] run playsound snowmobile.rev11 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=12}] run playsound snowmobile.rev12 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=13}] run playsound snowmobile.rev13 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=14}] run playsound snowmobile.rev14 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=15}] run playsound snowmobile.rev15 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=16}] run playsound snowmobile.rev16 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=17}] run playsound snowmobile.rev17 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=18}] run playsound snowmobile.rev18 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=19}] run playsound snowmobile.rev19 player @a[distance=..20] ~ ~ ~ 100 1
+execute if entity @s[scores={smv1os=20..}] run playsound snowmobile.rev20 player @a[distance=..20] ~ ~ ~ 100 1
