@@ -1,1 +1,1 @@
-give @s carrot_on_a_stick{Unbreakable:1b,Damage:1s,smv1id:0b,display:{Name:"{\"text\":\"Throttle\",\"color\":\"aqua\",\"italic\":\"false\"}"}}
+give @s carrot_on_a_stick{Unbreakable:1b,CustomModelData:137,smv1id:0b,display:{Name:"{\"text\":\"Throttle\",\"color\":\"aqua\",\"italic\":\"false\"}"}}

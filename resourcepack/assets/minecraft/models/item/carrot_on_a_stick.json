@@ -1,11 +1,9 @@
 {
-	"parent": "item/handheld",
+	"parent": "item/handheld_rod",
 	"textures": {
 		"layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [
-		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/carrot_on_a_stick"},
-		{ "predicate": {"damaged": 0, "damage": 0.038461538461538464}, "model": "snowmobiles/throttle"},
-		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/carrot_on_a_stick"}
+		{ "predicate": {"custom_model_data": 137}, "model": "snowmobiles/throttle"}
 	]
 }
